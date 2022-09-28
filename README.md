@@ -10,7 +10,7 @@ This app is designed to help those in need to ask for help, and those who want t
 
 **Potential developments:** contact tracing based on codes, 
 
-**Some features we would like to incorporate include:**
+**Some features we incorporated include:**
 * The app will not reveal personal information.
 * It will also contain calendar based tasks
 * Notifications/reminders will be implemented.
