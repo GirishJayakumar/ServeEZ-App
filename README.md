@@ -4,7 +4,7 @@
 **Solution:** 
 We have decided to create an app, called “ServeEZ.” 
 
-Serveasy is an app designed to offer and find help during the pandemic. 
+ServeEZ is an app designed to offer and find help during the pandemic. 
 There are a lot of people willing to  help during this time, but do not know where to start. 
 This app is designed to help those in need to ask for help, and those who want to help to find people in need; this app will act as the bridge/medium connecting people. 
 
